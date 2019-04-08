@@ -1,0 +1,9 @@
+{
+  "name": "gulu",
+  "version": "0.0.1",
+  "description": "ui框架轮子",
+  "main": "index.js",
+  "repository": "git@github.com:ycngu/demoUi.git",
+  "author": "ycngu <snl123698745@163.com>",
+  "license": "MIT"
+}
