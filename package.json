@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "git@github.com:ycngu/demoUi.git",
   "author": "ycngu <snl123698745@163.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "vue": "^2.6.10"
+  }
 }
