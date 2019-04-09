@@ -6,14 +6,14 @@
 
 <script>
 export default {
-    props:['name']
+  props: ["name"]
 };
 </script>
 
 <style lang="scss">
-        .g-icon {
-            width: 1.3em;
-            height: 1.3em;
-        }
+.g-icon {
+  width: 1.3em;
+  height: 1.3em;
+}
 </style>
 
